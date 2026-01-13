@@ -1,4 +1,4 @@
 <h1 align="center"> 👋  Hi, I’m @sunkcoast </h1>
 
-* Beginner Progammer
+* Web Developer
 * Currently living on Thriller Bark
