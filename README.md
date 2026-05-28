@@ -1,11 +1,3 @@
-# Imam Bastomi
-
-**Web Developer** — Laravel · PHP · MySQL
-
-Building production-ready web applications with clean architecture and reliable backend solutions.
-
----
-
 ## Tech Stack
 
 **Backend**
@@ -19,5 +11,3 @@ Building production-ready web applications with clean architecture and reliable 
 
 **Practices**
 `Clean Code` `Database Design` `Authentication & Authorization` `API Integration`
-
----
