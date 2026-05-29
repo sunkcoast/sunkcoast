@@ -1,3 +1,9 @@
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+> **Passionate Web Developer** crafting elegant solutions to complex problems with clean, scalable code. Dedicated to building user-centric applications that make an impact.
+
+I'm an **web Developer** with hands-on experience building **real-world production applications** using modern web technologies. I excel at creating seamless user experiences through responsive frontends and robust backend APIs.
+
 ## Tech Stack
 
 **Backend**
